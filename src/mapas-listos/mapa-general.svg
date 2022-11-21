@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 720">
+            <defs>
+                <style>.a {
+                        fill: none;
+                    }
+                    .b,
+                    .c,
+                    .d,
+                    .e,
+                    .f,
+                    .g,
+                    .h,
+                    .i {
+                        isolation: isolate;
+                        font-size: 40.73px;
+                        fill: #fff;
+                        font-family: Pangram-Medium, Pangram;
+                        font-weight: 500;
+                    }
+                    .b {
+                        letter-spacing: -0.11em;
+                    }
+                    .c {
+                        letter-spacing: -0.1em;
+                    }
+                    .d {
+                        letter-spacing: -0.04em;
+                    }
+                    .e {
+                        letter-spacing: -0.03em;
+                    }
+                    .f {
+                        letter-spacing: -0.06em;
+                    }
+                    .g {
+                        letter-spacing: -0.02em;
+                    }
+                    .h {
+                        letter-spacing: -0.05em;
+                    }
+                    .j {
+                        -webkit-clip-path: url(#a);
+                                clip-path: url(#a);
+                    }
+                    .k {
+                        fill: #f39200;
+                    }
+                    .l {
+                        -webkit-clip-path: url(#b);
+                                clip-path: url(#b);
+                    }
+                    .m {
+                        fill: #009640;
+                    }
+                    .n {
+                        -webkit-clip-path: url(#c);
+                                clip-path: url(#c);
+                    }
+                    .o {
+                        fill: #312783;
+                    }
+</style>
+                <clipPath id="a"><rect class="a" x="200.24" y="273.57" width="879.52" height="62"></rect></clipPath>
+                <clipPath id="b"><rect class="a" x="164.74" y="356.72" width="950.52" height="62"></rect></clipPath>
+                <clipPath id="c"><rect class="a" x="164.74" y="439.87" width="950.52" height="157"></rect></clipPath>
+            </defs>
+            <rect x="472.17" y="123.13" width="335.65" height="110.36"></rect>
+            <text class="b" transform="translate(534.74 196.57)">E</text>
+            <text class="c" transform="translate(551.4 196.57)">S</text>
+            <text class="d" transform="translate(572.78 196.57)">C</text>
+            <text class="e" transform="translate(600.65 196.57)">E</text>
+            <text class="f" transform="translate(620.61 196.57)">N</text>
+            <text class="f" transform="translate(647.98 196.57)">A</text>
+            <text class="g" transform="translate(676.74 196.57)">R</text>
+            <text class="h" transform="translate(701.67 196.57)">I</text>
+            <text class="i" transform="translate(709.4 196.57)">O</text>
+            <g class="j zona-mapa" id="preferencial" data-nombre="preferencial" data-name="preferencial">
+                <rect class="k" x="200.24" y="273.57" width="123" height="62"></rect>
+                <rect class="k" x="352.22" y="273.57" width="273.04" height="62"></rect>
+                <rect class="k" x="651.22" y="273.57" width="273.04" height="62"></rect>
+                <rect class="k" x="948.64" y="273.57" width="131.12" height="62"></rect>
+            </g>
+            <g class="l zona-mapa" id="platea" data-nombre="platea" data-name="platea">
+                <rect class="m" x="164.74" y="356.72" width="159" height="62"></rect>
+                <rect class="m" x="352.72" y="356.72" width="273.04" height="62"></rect>
+                <rect class="m" x="651.72" y="356.72" width="273.04" height="62"></rect>
+                <rect class="m" x="949.14" y="356.72" width="166.12" height="62"></rect>
+            </g>
+            <g class="n zona-mapa" id="tribuna" data-nombre="tribuna" data-name="tribuna">
+                <rect class="o" x="164.74" y="439.87" width="159" height="157"></rect>
+                <rect class="o" x="352.72" y="439.87" width="273.04" height="157"></rect>
+                <rect class="o" x="651.72" y="439.87" width="273.04" height="157"></rect>
+                <rect class="o" x="949.14" y="439.87" width="166.12" height="157"></rect>
+            </g>
+            
+        </svg>
