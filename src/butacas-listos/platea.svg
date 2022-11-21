@@ -1,17 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
         <defs>
-            <style>.a {
-                    fill: none;
-                }
-                .b {
-                    fill: #009640;
-                }
-                .c {
-                    fill: #6b6b6b;
-                }
-</style>
+            
         </defs>
-        <rect class="a" width="1280" height="720"></rect>
+    
         <circle class="b butaca-zona" cx="116.6" cy="224.04" r="8.9" id="Plat1" data-nombre="C-3" data-position="0"></circle>
         <circle class="b butaca-zona" cx="137.46" cy="244.31" r="8.9" id="Plat2" data-nombre="D-3" data-position="1"></circle>
         <circle class="b butaca-zona" cx="159.12" cy="265.26" r="8.9" id="Plat3" data-nombre="E-3" data-position="2"></circle>
